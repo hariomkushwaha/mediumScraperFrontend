@@ -1,0 +1,12 @@
+.layout{
+    padding-left: 23%;
+    padding-top: 5%;
+}
+
+
+@media screen and (max-width:800px){
+    .layout {
+        padding-left:0;
+        padding-top: 4%;
+    }
+  }
